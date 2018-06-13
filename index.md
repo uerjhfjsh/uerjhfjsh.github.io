@@ -1,37 +1,50 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/uerjhfjsh/uerjhfjsh.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+         全职高手
 
-### Markdown
+《全职高手》是蝴蝶蓝连载于起点中文网的电竞小说。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+该小说讲述了网游顶尖高手叶修，遭到俱乐部的驱逐，而后在荣耀新开的第十区重新投入了游戏，召集一群志同道合的伙伴，重返巅峰之路的故事。
 
-```markdown
-Syntax highlighted code block
+2017 年 7 月 12 日，《2017 猫片胡润原创文学 IP 价值榜》发布，《全职高手》排名
 
-# Header 1
-## Header 2
-### Header 3
+第 13 位。
 
-- Bulleted
-- List
+ 
 
-1. Numbered
-2. List
+1内容简介
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+    网游荣耀中被誉为教科书级别的顶尖高手叶修，因为种种原因遭到俱乐部的驱逐，离开职业圈的他栖身于一家网吧成了一个小小的网管，但是，拥有十年游戏经验的他，在荣耀新开的第十区重新投入了游戏，带着对往昔的回忆，和一把
+    未完成的自制银武器千机伞，开始了重返巅峰之路。
 
-### Jekyll Themes
+2角色
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/uerjhfjsh/uerjhfjsh.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+2.1兴欣战队
 
-### Support or Contact
+2.1.1 职业选手
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+
+叶修（原队长）曾用名：叶秋（第 1~8 赛季）叶修是蝴蝶蓝所著电竞小说《全职高手》及其衍生作品的主角。
+
+有荣耀教科书、斗神、战术大师（四大战术大师中唯一的攻坚手）、荣耀之神的美誉。
+
+荣耀网游第一批玩家，荣耀职业联赛初代选手，并创造了许多荣耀网游乃至赛场上的战术。全职业精通，创造了各种职业的连招套路、押枪等多种技术性以及流派的打法。更一直是荣耀竞技网游公认的巅峰。
+
+荣耀职业联赛第 1~3、10 赛季总冠军得主、第 4 赛季亚军得主。荣耀职业联赛历史上第一位也是唯一一位三连冠王朝战队缔造者，荣获 4 届“最有价值选手”（MVP），两获输出之星、一次一击必杀、一次单挑之王，与苏沐橙从第 4 赛季-第 7 赛季连续四年被评选为“最佳搭档”。
+
+在第 10 赛季从常规赛到总决赛的 45 场个人连胜（常规赛 37 连胜）开创了荣耀历史上的记录。首届荣耀世界邀请赛中国国家队领队
+
+2.1.2 战队经营
+
+陈果（战队老板）枪炮师是枪手职业中最笨重缓慢的枪炮师，但在荣耀中是攻击距离最远的职业，普通攻击就带上小范围伤害。虽然攻击节奏较为缓慢，但攻击比较有爆发力，技能伤害相当强力。然而，若处于近身战，则会非常不利。此外，枪炮师并不是只能装备重炮，可以换成枪，只是枪炮师的许多高伤害的大招都必须用重炮才能施展。[11]
+
+陈果所使用的账号都是枪炮师，下列表格为枪炮师技能。转职技能重火力控制。破甲炮。觉醒技能蓄能火炮。75 级技能飓风炮。
+
+2.2霸图战队 2.3 微草战队
+
+3荣耀设定
+
+《荣耀》这个游戏，职业及技能主要取材于DNF，但却展开了更庞大的各种游戏设定。,
