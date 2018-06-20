@@ -11,7 +11,7 @@
 
  ![https://github.com/uerjhfjsh/uerjhfjsh.github.io/blob/master/%E5%9B%BE%E7%89%871.png](https://github.com/uerjhfjsh/uerjhfjsh.github.io/blob/master/%E5%9B%BE%E7%89%871.png)
 
-##1内容简介
+## 1内容简介
 
 网游荣耀中被誉为教科书级别的顶尖高手叶修，因为种种原因遭到俱乐部的驱逐，离开职业圈的他栖身于一家网吧成了一个小小的网管，但是，拥有十年游戏经验的他，在荣耀新开的第十区重新投入了游戏，带着对往昔的回忆，和一把
 
